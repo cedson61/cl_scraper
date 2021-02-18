@@ -57,7 +57,7 @@ infile.close()
 url_listings_list = open('cleanedoutput.txt', 'r')
 
 count = 0
-outfile = open('final.txt', 'w')
+outfile = open('final.csv', 'w')
 
 
 while True:
